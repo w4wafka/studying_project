@@ -1,6 +1,6 @@
 body {
   width: 320px;
+  height: 320px;
   margin: 0 auto;
-  border-left: 1px solid black;
-  border-right: 1px solid black
+  border: 1px solid black;
 }
